@@ -1,2 +1,2 @@
 # hello-world
-Horse racing model
+AFL model
